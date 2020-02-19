@@ -7,3 +7,7 @@ Real-time 3D Geo visualisation
 
 [http://nkbt.github.io/geovis-preso](http://nkbt.github.io/geovis-preso)
 
+
+# Recorded presentation
+
+https://youtu.be/xyvehXL72l4
